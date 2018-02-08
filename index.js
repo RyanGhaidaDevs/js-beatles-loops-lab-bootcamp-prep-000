@@ -53,7 +53,7 @@ loopCounter = loopCounter + 1
 }
 
 
-while (i<x+1 & loopCounter <=15)
+while (i<x+1 & loopCounter <=15) 
 
 //need to limit to 15
 //need to only display one string if >17
